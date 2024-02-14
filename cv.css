@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(194, 194, 199);
+}
+
+
+main {
+    margin: 2rem;
+    display: grid;
+    grid-template-columns: 30% 1fr;
+    grid-gap: 2rem;
+}
+
+
+.left {
+    background-color: rgb(169, 169, 187);
+    padding: 4rem;
+}
+
+
+
+
+.right {
+    padding: 4rem;
+    background-color: rgb(175, 178, 188);
+}
+
+
+
+
